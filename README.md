@@ -1,5 +1,5 @@
 # CodeSamples
 
-This repository contains Code Samples - note that full functionality is not guaranteed
+**This repository contains links to Code Sample projects**
 
-- Java - WeatherApp
+- [Java - WeatherApp](https://pages.github.com/)
